@@ -320,7 +320,7 @@ td{border-width:0 1px;}
 /* Colours
 --------------------------------------------------------------------------------------------------------------- */
 body{color:#A8A8A8; background-color:#202020/* Fallback incase a background image doesn't load */;}
-a{color:orange;}
+a{color:black;}
 a:active, a:focus{background:transparent !important;}/* IE10 + 11 Bugfix - prevents grey background */
 hr, .borderedbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
@@ -341,7 +341,7 @@ input:focus, textarea:focus, *:required:focus{border-color:orange !important;}
 /* Rows */
 .row0, .row0 a{color:#FFFFFF; background-color:orange;}
 .row1{color:#474747; background-color:#FFFFFF;}
-.row2{color:#474747; background-color:#F4F4F4;}
+.row2{color:#474747; background-color:#FFFFFF;}
 .row3{color:#474747; background-color:#FFFFFF;}
 .row4{color:#A8A8A8;}
 .row5, .row5 a{color:#A8A8A8;}
@@ -396,7 +396,7 @@ input:focus, textarea:focus, *:required:focus{border-color:orange !important;}
 
 
 /* Copyright */
-#copyright{border-color:rgba(255,255,255,.2);}
+
 
 
 /* Navigation */
