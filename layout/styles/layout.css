@@ -45,7 +45,7 @@ File: Layout CSS
 
 /* Contact Details
 --------------------------------------------------------------------------------------------------------------- */
-#ctdetails{padding:30px 0;}
+/*#ctdetails{padding:30px 0;}
 
 #ctdetails ul{}
 #ctdetails ul li{}
@@ -401,7 +401,7 @@ input:focus, textarea:focus, *:required:focus{border-color:orange !important;}
 
 /* Navigation */
 #mainav li a{color:inherit;}
-#mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#000000; background-color:inherit;}
+#mainav .active a, #mainav a:hover, #mainav li:hover > a{color:white; background-color:inherit;}
 #mainav li li a, #mainav .active li a{color:#FFFFFF; background-color:rgba(142,200,55,.5); border-color:rgba(142,200,55,.5);/* #8EC837 */}
 #mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:orange;}
 #mainav form select{color:#474747; background-color:#FFFFFF; border-color:#D7D7D7;}
