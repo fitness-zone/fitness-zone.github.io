@@ -338,7 +338,7 @@ input:focus, textarea:focus, *:required:focus{border-color:orange !important;}
 .imgover, .imgover:hover::after{color:#FFFFFF;}
 
 
-/* Rows */
+/* Rows*/
 .row0, .row0 a{color:#FFFFFF; background-color:orange;}
 .row1{color:#474747; background-color:#FFFFFF;}
 .row2{color:#474747; background-color:#FFFFFF;}
@@ -527,4 +527,11 @@ table a, #comments a{background-color:inherit;}
 
 	.font-x2{font-size:1.6rem;}
 	.font-x3{font-size:1.8rem;}
+}
+
+/*article musculation*/
+#explication{
+color: black;
+text-align: justify;
+
 }
