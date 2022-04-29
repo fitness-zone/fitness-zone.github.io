@@ -533,5 +533,7 @@ table a, #comments a{background-color:inherit;}
 #explication{
 color: black;
 text-align: justify;
+font-size:15px;
+
 
 }
